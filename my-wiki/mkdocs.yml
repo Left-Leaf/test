@@ -4,8 +4,12 @@ theme:
 nav:
   - 主页: index.md
   - 学校官网信息:
-      - 校区概况: menu1/1.md
-      - 学科专业: menu2/2.md
+      - 校区概况: menu1/menu1_1/1.md
+      - 学科专业: menu1/menu1_2/2.md
+  - 学生组织:
+      - 学生会: menu2/menu2_1/1.md
+      - 青年志愿者协会: menu2/menu2_2/2.md
+  - Group: menu3/group.md
   - About:
     - xx: 3.md
     - xxx: 4.md
